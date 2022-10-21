@@ -1,0 +1,7 @@
+jsonlines
+orjson==3.6.1
+tqdm==4.62.3
+numpyencoder
+torch==1.9.1
+transformers==4.12.3
+
