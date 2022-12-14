@@ -28,7 +28,7 @@ cd ../..
 
 | Checkpoint folder      | Language |   Best F1    | Model                       | Threshold | Basic model weight |
 |------------------------|----------|:------------:|-----------------------------|:---------:|:------------------:|
-| pie_bea-gector         | English  |    56.05&:star:     |        roberta-base         |    0.8    |        0.1         |
+| pie_bea-gector         | English  |    56.05:star:     |        roberta-base         |    0.8    |        0.1         |
 | pie_bea_ft2-gector     | English  |    57.51:star:   |        roberta-large        |    0.8    |        0.1         |
 | clang_large_ft2-gector | English  |    58.94:star:     |        roberta-large        |    0.8    |        0.1         |
 | ru_200K_gpt            | Russian  |    53.44:heavy_check_mark:     | sberbank-ai/ruRoberta-large |    0.7    |        0.1         |
