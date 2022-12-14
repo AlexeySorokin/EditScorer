@@ -30,7 +30,7 @@ cd ../..
 |------------------------|----------|:------------:|-----------------------------|:---------:|:------------------:|
 | pie_bea-gector         | English  |    56.05     |        roberta-base         |    0.8    |        0.1         |
 | pie_bea_ft2-gector     | English  |    57.51     |        roberta-large        |    0.8    |        0.1         |
-| clang_large_ft2-gector | English  |    57.51     |        roberta-large        |    0.8    |        0.1         |
+| clang_large_ft2-gector | English  |    58.94     |        roberta-large        |    0.8    |        0.1         |
  | ru_200K_gpt            | Russian  |    53.44     | sberbank-ai/ruRoberta-large |    0.7    |        0.1         |
 | ru_200K_gpt_ft1        | Russian  |    55.04     | sberbank-ai/ruRoberta-large |    0.8    |        0.1         |
 
